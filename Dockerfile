@@ -1,4 +1,4 @@
-FROM che-java8-maven:nightly
+FROM amisevsk/che-java8-maven:nightly
 
 MAINTAINER tech-tejendra
 
